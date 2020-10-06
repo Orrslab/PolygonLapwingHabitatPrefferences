@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Water pond.kml</name>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin41">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7f000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fff5500</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Water pond</name>
+		<open>1</open>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin50</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>90</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.46518833773925,32.51797600706487,0 35.46527112673167,32.51975225431703,0 35.45808438835994,32.52077190368549,0 35.45651956995872,32.52192524235112,0 35.45624962482448,32.52315279778287,0 35.45481229734584,32.52402377039716,0 35.45479643414701,32.52581579149209,0 35.45068105506811,32.52815281825969,0 35.44966364264552,32.52851296187166,0 35.44734566588161,32.52737016875813,0 35.43942379189056,32.5320348246462,0 35.43264959645072,32.53260541708439,0 35.43311756789222,32.53554798714509,0 35.4284966835892,32.53767195545707,0 35.42529857651979,32.53210524856367,0 35.4154351356154,32.53585377387626,0 35.41610774496721,32.54077639348067,0 35.41122590216808,32.5390671297795,0 35.40333091402788,32.5425581867981,0 35.39897876945483,32.54309826714152,0 35.39702368101203,32.53984590555582,0 35.40123015559493,32.53756928089062,0 35.40130149379822,32.53488771158017,0 35.39754462742354,32.52957102372895,0 35.39853500356693,32.52816002255276,0 35.4007398478286,32.52843976443739,0 35.40261489326505,32.52926464413746,0 35.4098447506138,32.52865495133177,0 35.41221704947175,32.52953733758275,0 35.41456230436328,32.52698925869627,0 35.41747541127016,32.52861872201938,0 35.42130918194882,32.52743962432725,0 35.42256240541794,32.52942805521622,0 35.42957594747247,32.52743111882179,0 35.42883801265281,32.52498887344811,0 35.43166364430905,32.52331160397967,0 35.43409930890878,32.52809114177649,0 35.44689715182077,32.52318864746777,0 35.44646793837203,32.52183622387435,0 35.44864827689218,32.52082351229645,0 35.45230764897568,32.52264731756245,0 35.45735186058796,32.51900943986158,0 35.4594706313199,32.51558863256495,0 35.46194469982323,32.51672548517617,0 35.46518833773925,32.51797600706487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.54746340247092,32.50470446546316,0 35.53843679948341,32.50695162742377,0 35.53532156587082,32.50592873392257,0 35.53550634105812,32.50528419189357,0 35.53404801693421,32.50543251407189,0 35.53374585703756,32.50656098316429,0 35.5326914177453,32.50564886362127,0 35.53199998741407,32.5066638487333,0 35.5300406457668,32.50654486607569,0 35.526919329283,32.50599443501653,0 35.52488707908116,32.50666746969957,0 35.52016810306903,32.50339655809178,0 35.52483350598718,32.50068868252446,0 35.52288148119536,32.49965317971049,0 35.52646371542898,32.4977558450526,0 35.5273664194859,32.49904546800319,0 35.53084005874752,32.49769512711065,0 35.53350352043781,32.49711805543026,0 35.53408343604671,32.4960640014444,0 35.54487019453597,32.4965036385421,0 35.54959332442505,32.49725640283729,0 35.54904360916523,32.50297957598554,0 35.54746793491356,32.50298216058385,0 35.54746340247092,32.50470446546316,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.38714440221478,32.55046305015011,0 35.38216394444969,32.55266957023403,0 35.38319881205707,32.5548843827465,0 35.3710540939322,32.55769580090223,0 35.36963937171944,32.55563626485706,0 35.36580882286425,32.5561601043425,0 35.36456001948593,32.55246679069079,0 35.36513195530951,32.55099360478353,0 35.3665181779887,32.55041768174865,0 35.36909941527229,32.55510664908364,0 35.37277139983197,32.55487362095148,0 35.37462230754029,32.55378025425406,0 35.37429387891615,32.5513908020496,0 35.3760195527225,32.55024437748453,0 35.38058974214277,32.54859652328384,0 35.38158645922694,32.54801758633378,0 35.38675465954914,32.5467344993256,0 35.38714440221478,32.55046305015011,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.42480273285912,32.54906034497785,0 35.42629657903244,32.55336702333568,0 35.43112169326343,32.55736265195456,0 35.42285535348916,32.55937045794443,0 35.42131234181069,32.55621883026785,0 35.42284614176622,32.54765241451532,0 35.42497301145203,32.54727497098119,0 35.42480273285912,32.54906034497785,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.46187275572385,32.5077809049731,0 35.46261395583873,32.50620955499763,0 35.46385528550653,32.50044593624309,0 35.46517180813007,32.49859345484854,0 35.48089429151732,32.49926252193495,0 35.48138732691089,32.50161697096245,0 35.47997655846039,32.50492476293426,0 35.47553691331588,32.50607670345374,0 35.47628253533143,32.50819192858821,0 35.47154963691838,32.51034115266958,0 35.46507415930086,32.51034827348197,0 35.46277082865619,32.51123225851371,0 35.46187275572385,32.5077809049731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.4899735931083,32.51371742643999,0 35.4842834301302,32.51557091324398,0 35.48162330380244,32.51493555130079,0 35.48200252664691,32.51181908546525,0 35.48810937445441,32.51012386035305,0 35.4899735931083,32.51371742643999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.49275552871851,32.53577675992408,0 35.49042371898941,32.53646690593249,0 35.49019260547094,32.53554667513687,0 35.49196518243826,32.53481591745751,0 35.49275552871851,32.53577675992408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.47021200252447,32.54158075721168,0 35.46893640309938,32.54239461297457,0 35.46833545992327,32.54198005838685,0 35.46972459689729,32.54115302649078,0 35.47021200252447,32.54158075721168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.47550322042042,32.55509477113576,0 35.47405266720562,32.55533315233573,0 35.47386748678301,32.5546635615377,0 35.47509440097509,32.55444015096735,0 35.47550322042042,32.55509477113576,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.47865111271941,32.5591462268821,0 35.47716896764198,32.55919064540009,0 35.47708959740884,32.55836843364239,0 35.47799402430849,32.55827712293042,0 35.47865111271941,32.5591462268821,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.56160736158224,32.50059300059269,0 35.55895258120883,32.4972371023557,0 35.56061138556023,32.4948444545599,0 35.5644263782218,32.49338348031994,0 35.56719652530564,32.494604967117,0 35.57036200250407,32.49667218655853,0 35.56758228147917,32.49730271514206,0 35.56469815540459,32.49851400351721,0 35.56266184963694,32.49850255604902,0 35.56264803948341,32.50012117697783,0 35.56160736158224,32.50059300059269,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.45791671282223,32.49156543678345,0 35.45523421733424,32.49377919312884,0 35.45353138284369,32.49516295146764,0 35.45247331900777,32.49554215657474,0 35.45231108823335,32.49234550381665,0 35.45161068336748,32.48832684316643,0 35.44983851671344,32.48429375096547,0 35.45147648838538,32.4836051198507,0 35.45384398057681,32.4844776859714,0 35.45599481970417,32.4877485489974,0 35.45791671282223,32.49156543678345,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.51721656241161,32.47652576239221,0 35.51567802713095,32.47701825364199,0 35.51673599944015,32.48106707973153,0 35.51588344838846,32.48285274535115,0 35.51354236178742,32.48320633276079,0 35.51245493481405,32.47647609220556,0 35.51182269376198,32.47575474833237,0 35.51315866095645,32.47556275257885,0 35.5138447191381,32.47561180925361,0 35.51465422424966,32.47574927122716,0 35.51665036357963,32.47531956013044,0 35.51721656241161,32.47652576239221,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.52771103387647,32.46850854698819,0 35.52735225214614,32.47104653260376,0 35.52771853342122,32.4730662598764,0 35.52497519755023,32.47441163714133,0 35.52177287525149,32.47434509920608,0 35.51953449899754,32.47387341538078,0 35.52020445529769,32.47270307427247,0 35.52250691736924,32.47241595348002,0 35.52358118498418,32.4681269121123,0 35.52771103387647,32.46850854698819,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.46714227230715,32.47019514322282,0 35.46631832146942,32.47224597246535,0 35.46003032863274,32.47485733294376,0 35.45594624679398,32.47817499843013,0 35.45425641196209,32.47676823281652,0 35.45572243408218,32.47192108607875,0 35.46060547914567,32.46760316908546,0 35.46258235643068,32.46832220720998,0 35.46377026438429,32.46776809216272,0 35.46714227230715,32.47019514322282,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.49233703874358,32.46012361586331,0 35.48317364851155,32.46152717353446,0 35.48486201072105,32.46495728810358,0 35.48408129486097,32.46534851121916,0 35.48279243193451,32.46470992571226,0 35.47721750417102,32.46055126704702,0 35.47304955858509,32.46468351640821,0 35.47644475877475,32.45828971998112,0 35.47857636010653,32.45527672108426,0 35.49002506237956,32.45600894254802,0 35.49233703874358,32.46012361586331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.55404417566621,32.43583388873207,0 35.5544395533831,32.44235666268686,0 35.55478456105827,32.44473911044871,0 35.55758109957461,32.44406291037043,0 35.55882798604692,32.44754439435671,0 35.55906672916596,32.45003420502673,0 35.55804162996089,32.45126077277318,0 35.56090309980387,32.45251174892795,0 35.56358748878409,32.45290775856299,0 35.5646363632661,32.45428379174265,0 35.5619315169572,32.45485217985155,0 35.55602037685954,32.452844332449,0 35.55324048877975,32.45361199463395,0 35.55397532267447,32.45173031035122,0 35.54999617973424,32.44959350977462,0 35.55000327499567,32.43545726523221,0 35.55404417566621,32.43583388873207,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.56401824260702,32.44157520893321,0 35.55895077894679,32.44260543917926,0 35.55658831351499,32.43948931189009,0 35.55976100218253,32.43665577609324,0 35.56207793966021,32.43572261954013,0 35.56353525843242,32.43658828450395,0 35.56379734805723,32.43811484320565,0 35.56198513075023,32.43833642694928,0 35.56401824260702,32.44157520893321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.4855192764401,32.48958526067767,0 35.48416777299799,32.49014938435902,0 35.48294783987185,32.48969466946934,0 35.48296702035293,32.48909169391359,0 35.47760326481199,32.48672763254637,0 35.48087452072218,32.48433565174876,0 35.48153922292508,32.48239741955776,0 35.48304168119038,32.48353654158048,0 35.48508014942198,32.48379173938945,0 35.48557793812821,32.48487152362779,0 35.48710547794963,32.48536168955302,0 35.48787804000098,32.48603587553744,0 35.48950793806233,32.48599205244931,0 35.49030995272582,32.48620219855153,0 35.4864108089801,32.48912427432352,0 35.4855192764401,32.48958526067767,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.4855192764401,32.48958526067767,0 35.48416777299799,32.49014938435902,0 35.48294783987185,32.48969466946934,0 35.48296702035293,32.48909169391359,0 35.47760326481199,32.48672763254637,0 35.48087452072218,32.48433565174876,0 35.48153922292508,32.48239741955776,0 35.48304168119038,32.48353654158048,0 35.48508014942198,32.48379173938945,0 35.48557793812821,32.48487152362779,0 35.48710547794963,32.48536168955302,0 35.48787804000098,32.48603587553744,0 35.48950793806233,32.48599205244931,0 35.49030995272582,32.48620219855153,0 35.4864108089801,32.48912427432352,0 35.4855192764401,32.48958526067767,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.51919339459943,32.44659192015915,0 35.52244661092356,32.44785299700185,0 35.52193420525614,32.45118655920485,0 35.5190957919335,32.4527383178752,0 35.5176545752697,32.45096887496323,0 35.51919339459943,32.44659192015915,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.52733101746014,32.43535300262279,0 35.52528678402221,32.43661924463353,0 35.52402905978799,32.43474929544991,0 35.52622608231973,32.43242851336851,0 35.52733101746014,32.43535300262279,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.53680104271084,32.45007321866,0 35.53299376425199,32.44976469699527,0 35.53322406685758,32.44857939578761,0 35.53585219912397,32.44831619384862,0 35.53680104271084,32.45007321866,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water pond</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.54196087110311,32.46697186065795,0 35.53855464867707,32.46570089300997,0 35.53872986229017,32.46471064872554,0 35.54191089527501,32.46528880202541,0 35.54196087110311,32.46697186065795,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.45092798708264,32.55668481052157,0 35.45019555331507,32.5570771612476,0 35.44979132703268,32.55615348846902,0 35.45023510422497,32.55573529154331,0 35.45070357699179,32.55597164131908,0 35.45092798708264,32.55668481052157,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.40973476713995,32.56372300789781,0 35.40899836802117,32.56388166943829,0 35.40889881222064,32.56342060846708,0 35.40940111569338,32.56296942431443,0 35.40985034155909,32.56320758672952,0 35.40973476713995,32.56372300789781,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.40011095032948,32.57354663331738,0 35.39980580082028,32.57390038329768,0 35.39881035558948,32.57376470648744,0 35.39882791926451,32.57319063266969,0 35.40011095032948,32.57354663331738,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.39011595802947,32.57221558013855,0 35.38969922167261,32.57257365915836,0 35.38896678989186,32.57192174530373,0 35.38965755475022,32.57158796175032,0 35.39011595802947,32.57221558013855,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.44105747250241,32.5435226996395,0 35.43774453505361,32.54472952336637,0 35.43738938238056,32.54401556233459,0 35.44041931284357,32.54256469196974,0 35.44105747250241,32.5435226996395,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.50241053657283,32.51647713998762,0 35.50182054563282,32.51705178694917,0 35.5000799331652,32.51702793117492,0 35.49945571798985,32.51634113560782,0 35.50067922241121,32.5153577420252,0 35.50241053657283,32.51647713998762,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.52189897178518,32.51182986822267,0 35.521736547163,32.51122356856108,0 35.52249854278717,32.51108871596435,0 35.52606602218022,32.51381027759004,0 35.52372127896342,32.51535241288358,0 35.52154127579492,32.5136822708344,0 35.52136265332706,32.51213349983858,0 35.52189897178518,32.51182986822267,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.55141578360573,32.46054466968192,0 35.5460369614197,32.46181730476661,0 35.54595740614709,32.4611768552516,0 35.55116706853615,32.45958676324048,0 35.55148758736731,32.45700295825072,0 35.55248774234059,32.45714155353547,0 35.55141578360573,32.46054466968192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.52886057169231,32.47804073108568,0 35.52767679311241,32.478313550301,0 35.52746956054983,32.47761048711366,0 35.52783299470019,32.47733577861744,0 35.52867562479413,32.47765671656973,0 35.52886057169231,32.47804073108568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.5094817272008,32.47086957262614,0 35.50828531751794,32.47205775368116,0 35.50723196941598,32.47192516524719,0 35.50601488345752,32.47214355670761,0 35.50568392305593,32.47189733111124,0 35.50749542432672,32.47036449633138,0 35.50842156920885,32.47018439767447,0 35.50884545730651,32.47080234191775,0 35.5094817272008,32.47086957262614,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.50553435815134,32.47640972738009,0 35.50433564116478,32.47672395505609,0 35.50346528039934,32.47576609158396,0 35.50449350583414,32.47545379186951,0 35.50463711091589,32.47531884400278,0 35.50523544843875,32.47540360804305,0 35.50553435815134,32.47640972738009,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.48369038299418,32.47918888820039,0 35.48301063729291,32.48143407175315,0 35.48200047094882,32.48128918897154,0 35.48285351523371,32.47885215591943,0 35.48369038299418,32.47918888820039,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>2</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.50937627188188,32.46657005369708,0 35.50837304182264,32.46458005893762,0 35.51043091350478,32.46444732512927,0 35.51145088740354,32.46560808992149,0 35.50937627188188,32.46657005369708,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>מצולע ללא כותרת</name>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							35.47121681981934,32.51987950408442,0 35.46838941571236,32.51995738250751,0 35.46904400861173,32.51806138911622,0 35.47163906019047,32.51878912026762,0 35.47121681981934,32.51987950408442,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
